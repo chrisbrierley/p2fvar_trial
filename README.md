@@ -9,4 +9,5 @@ There are some tables of climate mode changes and IPCC AR5 Region values stored 
 
 The intention is that the rest of the data will be distributed on a small [ERDDAP](https://coastwatch.pfeg.noaa.gov/erddap/download/setup.html) server (run by @chrisbrierley on Amazon Web Services). I've not found the time to create this yet :weary:
 
+You can run this repository on a Pangeo Binder, but be aware that may take 30mins to load everythign up to be ready to use
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/chrisbrierley/p2fvar_trial/master)
